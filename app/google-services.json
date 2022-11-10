@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407874152688",
+    "firebase_url": "https://diandy-default-rtdb.firebaseio.com",
+    "project_id": "diandy",
+    "storage_bucket": "diandy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407874152688:android:114c81cbc5d0604554ba35",
+        "android_client_info": {
+          "package_name": "com.example.pruebachar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407874152688-c818c3dp4hpc5di9vpbjg0md230aijh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXBfPRE_0QkrvYPpndvasMd91oeAe25s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407874152688-c818c3dp4hpc5di9vpbjg0md230aijh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
